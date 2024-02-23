@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385059789211",
+    "project_id": "loginapp-922c5",
+    "storage_bucket": "loginapp-922c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385059789211:android:cab4f9ae54eb9db68c293e",
+        "android_client_info": {
+          "package_name": "com.example.dart_set_demo_nov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1bWFIjYRp-mETKItUvK2tsiWbyqXOT_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
